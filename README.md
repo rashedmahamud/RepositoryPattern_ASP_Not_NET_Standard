@@ -1,1 +1,0 @@
-# RepositoryPattern_ASP_Not_NET_Standard
